@@ -1,0 +1,19 @@
+{
+    "template": "full_template",
+    "department": "ТОЭ",
+    "label": "КУРСОВАЯ РАБОТА\\\\Вариант 11",
+    "num": null,
+    "discipline": "ТОЭ",
+    "theme": "АНАЛИЗ ЛИНЕЙНОЙ ЦЕПИ",
+    "student": "",
+    "partners": [],
+    "teacher": "Панкин В.В.",
+    "year": "2022",
+    "chapters": {
+        "content": "#\\tableofcontents",
+        "task": "Техническое задание",
+        "solution": "Решение",
+        "conclusion": "Выводы"
+    },
+    "newpage": false
+}
